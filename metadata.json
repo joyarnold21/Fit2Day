@@ -1,0 +1,6 @@
+{
+  "name": "Fit2Day - AI Wardrobe Stylist",
+  "description": "Your Clothes. Your Style. Every Day. AI-powered personal wardrobe stylist creating coordinated outfits for any number of days from clothes you already own.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
